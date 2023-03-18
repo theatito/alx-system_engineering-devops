@@ -1,1 +1,1 @@
-Shell, init files, variables and expansions
+create a script that creates an alias
